@@ -12,5 +12,5 @@ option is the way to go if you're going to be doing any of:
 * Running a script locally
 * Making changes to things
 * Wanting to commit your own work to GitHub (N.B. in this case, remember to
-  `fork` this repository to your own account, then clone that repository so you
+  [fork this repository to your own account](../../fork), then clone that repository so you
   have permissions to push changes)
