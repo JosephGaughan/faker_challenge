@@ -20,7 +20,7 @@ public class DefectTest {
 
     @DataProvider(name = "")
     public Object[][] invalidDefectData() {
-        // return a 2D array of inputs and expected urls
+        // return a 2D array of inputs
         // you can hard code it for now
         return null;
     }
